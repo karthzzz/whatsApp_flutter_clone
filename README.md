@@ -1,6 +1,5 @@
-# samosa
+# whatsApp FLutter clone. 
 
-A new Flutter project.
 
 ## Getting Started
 
